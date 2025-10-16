@@ -1,0 +1,6 @@
+Loggbok med uppdateringar för att följa grupparbetets progression
+
+14/10: Uppstartsmöte i studiegrupp 1. Då vi är 5st och osäkra på vilka som kommer ansluta väljer vi att dela på oss i två men är beredda på att eventuellt återanslutas om det skulle behövas. i våran del av gruppen har vi Hamed, Daniel, Martin.
+Repository har skapats Hamed och Daniel har satt upp miljön för att jobba efter uppstartsmötet. Filer som ska finnas i repon är mestadels på plats.
+
+15/10: Kanban tavla har skapats och olika uppgifter satts upp efter prioritet. Några till filer har laddats upp till repon. 
