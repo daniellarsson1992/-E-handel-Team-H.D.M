@@ -23,3 +23,10 @@ def median_revenue(df):
 
 def standard_deviation(df):
     return df['revenue'].std()
+
+def revenue_over_time(df):
+    df = df.copy()
+    # df = df.dropna(subset=["date"]) # om vi hade haft tomma värden i "date" kolumnen
+    # df = df.sort_values("date")
+    resultat = df.groupby("date")["revenue"].sum()
+    return resultat
