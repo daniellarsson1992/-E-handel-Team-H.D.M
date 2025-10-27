@@ -18,3 +18,8 @@ def top_categories(df, n =3):
 def revenue_by_city(df):
     return df.groupby('city')['revenue'].sum().sort_values(ascending = False)
 
+def median_revenue(df):
+    return df['revenue'].median()
+
+def standard_deviation(df):
+    return df['revenue'].std()
