@@ -17,4 +17,4 @@ class Analyzer:
         self.plots["sales_over_time"] = plot_sales_over_time(self.df)
 
     def summary(self):
-        return f"Total Revenue: {self.metrics.get("total_revenue"):.0f}\n"
+        return f"Total Revenue: {self.metrics.get('total_revenue'):.0f}\n"
