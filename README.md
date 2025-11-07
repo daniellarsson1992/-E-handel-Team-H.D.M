@@ -1,6 +1,6 @@
 # E-handel-Team-H.D.M
 
-Gruppuppgift om E-Handel.
+Gruppuppgift om E-Handel. Av Martin, Hamed och Daniel
 
 ## Sammanfattning
 
